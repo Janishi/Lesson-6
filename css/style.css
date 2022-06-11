@@ -1,0 +1,32 @@
+.nav{
+	display:  inline-block;
+}
+.nav-list{
+	display: inline-block;
+}
+.nav-list-class{
+	font-family: 'Raleway Semibold';
+	color: #303134;
+	font-size: 15.74;
+	text-transform: uppercase;
+}
+.logo{
+	margin-top: 25px;
+	margin-left: 95px;
+	margin-right:  89.9px;
+}
+.home{
+	margin-right: 53px;
+}
+.about{
+	margin-right: 50px;
+}
+.our-service{
+	margin-right: 49px;
+}
+.header{
+	margin-top: 25px;
+}
+.container1{
+	margin-top: 25px;
+}
