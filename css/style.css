@@ -29,19 +29,56 @@
 }
 .container1{
 	margin-top: 25px;
-	
+		
 }
 .banner-main-text{
 	font-family: 'Raleway Semibold';
 	font-size: 78.74px;
 	color: #FFFFFF;
 	position: absolute;
-	right: 50%;
+	left: 50%;
 	top:  50%;
 	transform: translate(-50%, -50%);
 }
 .banner-text{
-	width: 1360px;
-	height: 81px;
+	
 	position: relative;
+}
+.banner{
+	width: 100%;
+}
+.banner-small-text{
+	font-family: 'Raleway Semibold';
+	position: absolute;
+	font-size: 18px;
+	color: white;
+	left: 40%;
+	top: 65%;
+}
+.wrapper{
+	width: 1171px;
+	margin: 0 auto;
+}
+.sec2-text-div{
+	width: 229px;
+	height: 198px;
+}
+.h3{
+	font-family: 'Raleway Semibold';
+	font-size: 16px;
+	margin-bottom: 15px;
+
+}
+.sec2-text-p{
+	font-family: 'Raleway Semibold';
+	font-size: 26px;
+
+}
+.wrapper{
+	margin-top: 75.8px;
+}
+.sec2-text-p3{
+	font-family: 'Raleway medium';
+	font-size: 16px;
+	margin-top: 40.1px;
 }
