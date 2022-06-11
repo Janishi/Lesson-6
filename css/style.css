@@ -30,3 +30,17 @@
 .container1{
 	margin-top: 25px;
 }
+.banner-main-text{
+	font-family: 'Raleway Semibold';
+	font-size: 78.74px;
+	color: #FFFFFF;
+	position: absolute;
+	right: 50%;
+	top:  50%;
+	transform: translate(-50%, -50%);
+}
+.banner-text{
+	width: 1360px;
+	height: 81px;
+	position: relative;
+}
