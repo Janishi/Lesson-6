@@ -1,5 +1,8 @@
+/* navigation */
 .nav{
 	display:  inline-block;
+	
+
 }
 .nav-list{
 	display: inline-block;
@@ -31,6 +34,7 @@
 	margin-top: 25px;
 		
 }
+/* banner */
 .banner-main-text{
 	font-family: 'Raleway Semibold';
 	font-size: 78.74px;
@@ -55,30 +59,101 @@
 	left: 40%;
 	top: 65%;
 }
+/* section 2 */
 .wrapper{
-	width: 1171px;
+	width: 1171.57px;
+	height: 680.13px;
 	margin: 0 auto;
-}
-.sec2-text-div{
-	width: 229px;
-	height: 198px;
-}
-.h3{
-	font-family: 'Raleway Semibold';
-	font-size: 16px;
-	margin-bottom: 15px;
-
-}
-.sec2-text-p{
-	font-family: 'Raleway Semibold';
-	font-size: 26px;
-
-}
-.wrapper{
 	margin-top: 75.8px;
 }
-.sec2-text-p3{
+.main-block{
+	width: 871px;
+	display: inline-block;
+	vertical-align: top;
+}
+/* }top-block 1 */
+
+.con2-block1{
+	width: 241.47px;
+	height: 240.56px;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 59.1px;
+}
+.con2-block1-h3{
+	font-family: 'Raleway Semibold';
+	font-size: 16px;
+	color: #8D8D8D;
+}
+.con2-block1-h2{
+	font-family: 'Raleway Semibold';
+	font-size: 26px;
+	color: #1A1A1B;
+	margin-top: 6.2px;
+	margin-bottom: 40.1px;
+}
+.con2-block1-p{
+	color:#8D8D8D;
 	font-family: 'Raleway medium';
 	font-size: 16px;
-	margin-top: 40.1px;
+	
+	
 }
+.top-block-1-p{
+	color:#8D8D8D;
+	font-family: 'Raleway medium';
+	font-size: 16px;
+	margin-top: 52.2px;
+}
+.top-block-1{
+	width: 269.07px;
+	height: 327.42px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+/* top-block2 */
+.top-block-2{
+	width: 241.47px;
+	height: 240.56px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 31.9px;
+	margin-right: 30.9px;
+	
+}
+.top-block-2-h2{
+	font-family: 'Raleway Semibold';
+	font-size: 18px;
+	color: #1A1A1B;
+	margin-top: 22.4px;
+	margin-bottom: 8.8px;
+}
+.top-block-2-p{
+	color:#8D8D8D;
+	font-family: 'Raleway medium';
+	font-size: 16px;
+}
+/* top-block 3 */
+.top-block-3{
+	width:270.06px;
+	height: 327.42px;
+	display: inline-block;
+	vertical-align: top;
+}
+.top-block-3-h2{
+	font-family: 'Raleway Semibold';
+	font-size: 18px;
+	color: #1A1A1B;
+	margin-top: 22.4px;
+	margin-bottom: 8.8px;
+}
+.top-block-3-p{
+	color:#8D8D8D;
+	font-family: 'Raleway medium';
+	font-size: 16px;
+	
+}
+/* .top-block-3{
+	margin-left: 30.9px;
+} */
